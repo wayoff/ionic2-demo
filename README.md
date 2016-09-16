@@ -31,7 +31,7 @@ to install the app, npm should be the latest or greater than > 3.x
 
 4) add platform using: `ionic platform add ios` or `ionic platform add android`
 
-  4.a) Android (note: this require ant build and android SDK)
+  4.a) Android (note: this require ant build, android SDK and both should be registered on your environment path(windows) )
   
     4.a.a) use `ionic build android` to compile everything and it should create an APK
           (\app-name\platforms\android\build\outputs\apk)
